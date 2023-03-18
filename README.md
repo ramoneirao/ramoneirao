@@ -3,10 +3,10 @@
 <p>Me chamo Ramon Mendes.
 <p>Estou me graduando em Ciência da Computação pela Universidade Federal do Pará (UFPa) [4/8]  
 <div>
-<a href="https://github.com/ramoneirao">
-<img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ramoneirao&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoneirao&layout=compact&langs_count=7&theme=merko"/>
-  
+  <a href="https://github.com/ramoneirao">
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ramoneirao&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="170em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoneirao&layout=compact&langs_count=7&theme=merko"/>
+
 ### Tecnologias em aprendizado
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
