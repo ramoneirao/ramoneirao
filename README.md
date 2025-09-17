@@ -1,5 +1,5 @@
 # Olá <img src="https://media3.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif?cid=ecf05e476etr9ydvn2fixc0nbxh8gqliiua6im9lozg1n2gv&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="30"></h1><br>
-👨‍💻 Me chamo Ramon Mendes, atualmente, sou estudante de Ciência da Computação na Universidade Federal do Pará (UFPA).<br>📈 Tenho grande interesse em ciência de dado e machine learning e ia generativa.<br>
+👨‍💻 Me chamo Ramon Mendes, atualmente, sou estudante de Ciência da Computação na Universidade Federal do Pará (UFPA).<br>📈 Tenho grande interesse em ciência de dado, machine learning e ia generativa.<br>
 🚀 Trabalho constantemente em projetos que envolvem machine learning, estatística, IA generativa e MLOps. <br>
 💼 Minhas hard skills incluem Python (pandas, numpy, matplotlib, seaborn, scikit-learn, etc.), SQL, Aprendizado de Máquina (classificação, regressão, clusterização e séries temporais), IA Generativa (RAG, embeddings, Langchain, CrewAI), Git e GitHub (controle de versão), e Estatística (descritiva e inferencial).<br>
 🧠 Já minhas soft skills incluem aprendizado autodirigido, comunicação clara, trabalho em equipe, adaptabilidade, proatividade e foco em resultados.
